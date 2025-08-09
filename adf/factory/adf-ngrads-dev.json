@@ -1,0 +1,9 @@
+{
+	"name": "adf-ngrads-dev",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f700771-1138-4fd1-87a2-b4c0d8854a6a",
+		"tenantId": "acdbbfd4-82f5-41a1-b678-5fb9be66057a"
+	}
+}
