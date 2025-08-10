@@ -1,0 +1,13 @@
+{
+	"name": "Greenta-SHIR",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "This SHIR is shared from faycal-df",
+		"typeProperties": {
+			"linkedInfo": {
+				"resourceId": "/subscriptions/afb52381-5e9e-4eb6-9412-8ad62aa942fd/resourcegroups/faycal-rg/providers/Microsoft.DataFactory/factories/faycal-df/integrationruntimes/SHIR",
+				"authorizationType": "Rbac"
+			}
+		}
+	}
+}
